@@ -1,4 +1,4 @@
-import popmotion from 'popmotion';
+import popmotion from "popmotion";
 
 const { styler, spring, listen, pointer, value } = popmotion;
 const ball = document.querySelector(".box");
